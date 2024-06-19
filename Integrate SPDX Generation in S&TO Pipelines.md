@@ -5,6 +5,10 @@ This document describes an approach to integrating Software Package Data Exchang
 
 ### Step 1: Assess Current Build Environments and Package Managers
 
+**Identify S&TO Build Environments To Partner With**:
+   - Create a list of all S&TO development teams and their build environments.
+      - BES team has volunteered to be the pilot partner.
+
 **Identify Build Environments**:
    - Create a list of the majority of build environments used (e.g., Jenkins, GitHub Actions, CircleCI, GitLab CI).
    - Document the build processes and workflows.
