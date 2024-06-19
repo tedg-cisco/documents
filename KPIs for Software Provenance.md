@@ -1,5 +1,12 @@
 
-**_Write a detailed plan for Key Performance Indicators (KPIs) using SMART criteria for Software Bills of Materials provenance_**
+### Look at bottom KPI first
+<br>
+
+
+> **_1. Write a detailed plan for Key Performance Indicators (KPIs) using SMART criteria for Software Bills of Materials provenance_**
+---
+
+---
 
 Creating Key Performance Indicators (KPIs) for Software Bills of Materials (SBOM) provenance using the SMART criteria involves developing specific, measurable, achievable, relevant, and time-bound metrics. Here is a detailed plan for KPIs:
 
@@ -131,10 +138,12 @@ By following this detailed plan, organizations can effectively implement and tra
 
 <br> <br>
 
----
+
+> **_2. Write a detailed plan of Operational KPIs using SMART criteria for Software Bills of Materials provenance_**
 ---
 
-**_Write a detailed plan of Operational KPIs using SMART criteria for Software Bills of Materials provenance_**
+---
+
 
 Operational KPIs for Software Bills of Materials (SBOM) provenance using SMART criteria should focus on monitoring the efficiency and effectiveness of SBOM management processes. Here's a detailed plan:
 
@@ -267,10 +276,11 @@ By implementing this detailed plan, organizations can effectively track and impr
 
 <br> <br>
 
----
+
+> **_3. Write a detailed plan of Leading vs Lagging KPIs using SMART criteria for Software Bills of Materials provenance_**
 ---
 
-**_Write a detailed plan of Leading vs Lagging KPIs using SMART criteria for Software Bills of Materials provenance_**
+---
 
 Creating a detailed plan for leading and lagging Key Performance Indicators (KPIs) for Software Bills of Materials (SBOM) provenance using SMART criteria involves identifying proactive measures (leading KPIs) that predict future performance and reactive measures (lagging KPIs) that reflect past performance. Here's a comprehensive plan:
 
@@ -409,10 +419,11 @@ By distinguishing between leading and lagging KPIs and applying SMART criteria, 
 
 <br> <br>
 
----
+
+> **_4. Write an Executive Report for Key Performance Indicators (KPIs) using SMART criteria for Software Bills of Materials provenance_**
 ---
 
-**_Write an Executive Report for Key Performance Indicators (KPIs) using SMART criteria for Software Bills of Materials provenance_**
+---
 
 ### Executive Report: Key Performance Indicators (KPIs) for Software Bills of Materials (SBOM) Provenance
 
@@ -550,12 +561,12 @@ By following this plan, we are confident in our ability to maintain robust SBOM 
 
 <br> <br>
 
+
+> **_5. Write an Executive Report of Operational KPIs using SMART criteria for Software Bills of Materials provenance_**
 ---
+
 ---
 
-
-
-**_Write an Executive Report of Operational KPIs using SMART criteria for Software Bills of Materials provenance_**
 
 # Executive Report: Operational KPIs for Software Bills of Materials Provenance
 
@@ -629,7 +640,165 @@ These SMART KPIs provide a structured approach to enhancing the management and p
 
 <br> <br>
 
----
+
+
+> **_6. Write an Executive Report of Operational KPIs using SMART criteria for Tracking Artifacts in Software Bills of Materials_**
 ---
 
+---
+
+# Executive Report: Operational KPIs for Tracking Artifacts in Software Bills of Materials
+
+## Introduction
+
+This report outlines the Operational Key Performance Indicators (KPIs) for tracking artifacts within Software Bills of Materials (SBOMs). These KPIs are developed using the SMART criteria to ensure they are Specific, Measurable, Achievable, Relevant, and Time-bound. Effective tracking of artifacts within SBOMs is crucial for maintaining software integrity, security, and compliance.
+
+## Key Performance Indicators
+
+### 1. **Completeness of Artifact Records**
+
+- **Specific**: Ensure all artifacts in SBOMs are fully documented with relevant metadata.
+- **Measurable**: Achieve 100% completeness in artifact records across all SBOMs.
+- **Achievable**: Implement mandatory fields and automated checks during SBOM creation.
+- **Relevant**: Complete artifact records are essential for traceability and auditability.
+- **Time-bound**: Achieve full completeness within 6 months.
+
+### 2. **Timeliness of Artifact Updates**
+
+- **Specific**: Ensure artifact records are updated promptly to reflect any changes.
+- **Measurable**: Update artifact records within 24 hours of any modification.
+- **Achievable**: Integrate artifact tracking with continuous integration/continuous deployment (CI/CD) systems.
+- **Relevant**: Timely updates are critical for maintaining accurate SBOMs and managing vulnerabilities.
+- **Time-bound**: Implement and verify the update process within 4 months.
+
+### 3. **Accuracy of Artifact Information**
+
+- **Specific**: Ensure the accuracy of information for all artifacts listed in SBOMs.
+- **Measurable**: Maintain a less than 1% error rate in artifact information.
+- **Achievable**: Use automated verification tools and conduct periodic manual audits.
+- **Relevant**: Accurate artifact information is vital for effective risk management.
+- **Time-bound**: Achieve the target error rate within 8 months.
+
+### 4. **Artifact Traceability**
+
+- **Specific**: Ensure complete traceability of artifacts from source to deployment.
+- **Measurable**: Achieve 100% traceability for all artifacts across the software lifecycle.
+- **Achievable**: Implement a robust tracking system integrated with version control and deployment tools.
+- **Relevant**: Traceability is crucial for identifying the origin and changes of artifacts, aiding in security and compliance.
+- **Time-bound**: Establish full traceability within 12 months.
+
+### 5. **Integration with Security Scanning Tools**
+
+- **Specific**: Integrate artifact tracking with security scanning tools to detect vulnerabilities.
+- **Measurable**: Ensure that 100% of artifacts are scanned for vulnerabilities.
+- **Achievable**: Utilize APIs and plugins to connect tracking systems with security tools.
+- **Relevant**: Integration enhances proactive vulnerability detection and mitigation.
+- **Time-bound**: Complete integration within 6 months.
+
+### 6. **Stakeholder Awareness and Training on Artifact Tracking**
+
+- **Specific**: Increase stakeholder awareness and training on the importance of artifact tracking in SBOMs.
+- **Measurable**: Conduct bi-monthly training sessions with at least 95% attendance rate.
+- **Achievable**: Develop comprehensive training materials and conduct interactive sessions.
+- **Relevant**: Awareness and training are crucial for effective implementation of artifact tracking.
+- **Time-bound**: Initiate and maintain training sessions within the next 3 months.
+
+### 7. **Compliance with Industry Standards**
+
+- **Specific**: Ensure artifact tracking complies with industry standards and best practices (e.g., NTIA, SPDX).
+- **Measurable**: Achieve 100% compliance with relevant standards.
+- **Achievable**: Regularly review standards and update practices accordingly.
+- **Relevant**: Compliance ensures interoperability, security, and regulatory adherence.
+- **Time-bound**: Ensure full compliance within 9 months.
+
+## Conclusion
+
+These SMART KPIs provide a comprehensive framework for improving the tracking of artifacts within SBOMs. By focusing on completeness, timeliness, accuracy, traceability, integration with security tools, stakeholder training, and compliance, we aim to enhance the integrity and security of our software supply chain. Regular monitoring and evaluation of these KPIs will ensure ongoing improvements and alignment with industry best practices.
+
+
+<br> <br>
+
+
+> **_7. Write an Executive Report of Operational KPIs using SMART criteria for  Software provenance and how SBOM ingestion supports it._**
+---
+
+---
+
+# Executive Report: Operational KPIs for Software Provenance and SBOM Ingestion
+
+## Introduction
+
+This report presents the Operational Key Performance Indicators (KPIs) for ensuring software provenance and how the ingestion of Software Bills of Materials (SBOMs) supports this objective. These KPIs are crafted using the SMART criteria to ensure they are Specific, Measurable, Achievable, Relevant, and Time-bound. Effective software provenance ensures the integrity, security, and compliance of software components throughout their lifecycle.
+
+## Key Performance Indicators
+
+### 1. **Completeness of SBOM Ingestion**
+
+- **Specific**: Ensure the ingestion of SBOMs for all software components.
+- **Measurable**: Achieve 100% ingestion rate for all new and existing software components.
+- **Achievable**: Automate the SBOM ingestion process and integrate it into the development pipeline.
+- **Relevant**: Comprehensive ingestion of SBOMs is critical for accurate software provenance tracking.
+- **Time-bound**: Achieve full ingestion coverage within 6 months.
+
+### 2. **Accuracy of Ingested SBOM Data**
+
+- **Specific**: Ensure the accuracy of data ingested from SBOMs.
+- **Measurable**: Maintain a less than 1% error rate in the ingested SBOM data.
+- **Achievable**: Implement data validation tools and periodic audits to ensure accuracy.
+- **Relevant**: Accurate data is essential for reliable software provenance.
+- **Time-bound**: Reach the target error rate within 8 months.
+
+### 3. **Timeliness of SBOM Data Updates**
+
+- **Specific**: Ensure that SBOM data is updated promptly to reflect changes in software components.
+- **Measurable**: Update SBOM data within 24 hours of any modification in software components.
+- **Achievable**: Integrate the SBOM update process with CI/CD systems for real-time updates.
+- **Relevant**: Timely updates are crucial for maintaining current and reliable software provenance data.
+- **Time-bound**: Implement and verify the update process within 4 months.
+
+### 4. **Traceability of Software Components**
+
+- **Specific**: Ensure full traceability of all software components from origin to deployment.
+- **Measurable**: Achieve 100% traceability for all software components listed in SBOMs.
+- **Achievable**: Use version control systems and detailed logging to track all changes and origins.
+- **Relevant**: Traceability is critical for understanding the provenance and mitigating risks.
+- **Time-bound**: Establish complete traceability within 12 months.
+
+### 5. **Integration with Security and Compliance Tools**
+
+- **Specific**: Integrate SBOM ingestion with security and compliance tools to enhance risk management.
+- **Measurable**: Ensure that 100% of ingested SBOMs are analyzed for security vulnerabilities and compliance.
+- **Achievable**: Utilize APIs and plugins to connect SBOM ingestion systems with security and compliance tools.
+- **Relevant**: Integration supports proactive vulnerability management and regulatory compliance.
+- **Time-bound**: Complete integration within 6 months.
+
+### 6. **Stakeholder Training and Awareness**
+
+- **Specific**: Increase stakeholder awareness and training on the importance of software provenance and SBOM ingestion.
+- **Measurable**: Conduct quarterly training sessions with at least 95% attendance rate.
+- **Achievable**: Develop comprehensive training materials and conduct interactive sessions.
+- **Relevant**: Awareness and training are essential for effective implementation and adherence to SBOM ingestion processes.
+- **Time-bound**: Initiate and maintain training sessions within the next 3 months.
+
+### 7. **Compliance with Industry Standards**
+
+- **Specific**: Ensure that SBOM ingestion and software provenance practices comply with industry standards (e.g., NTIA, SPDX).
+- **Measurable**: Achieve 100% compliance with relevant standards.
+- **Achievable**: Regularly review standards and update practices accordingly.
+- **Relevant**: Compliance ensures interoperability, security, and regulatory adherence.
+- **Time-bound**: Ensure full compliance within 9 months.
+
+## Conclusion
+
+These SMART KPIs establish a robust framework for enhancing software provenance through effective SBOM ingestion. By focusing on completeness, accuracy, timeliness, traceability, integration with security tools, stakeholder training, and compliance, we aim to improve the reliability and security of our software supply chain. Regular monitoring and evaluation of these KPIs will ensure continuous improvement and alignment with industry best practices.
+
+
+
+<br> <br>
+
+
+> **_8. asdf_**
+---
+
+---
 
